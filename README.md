@@ -11,7 +11,7 @@ Existing methods like Chase Combining (Type-I) and Incremental Redundancy (Type-
 Type-III) implement Log-Likelihood Ratio and Maximum Ratio Combining to combine two
 erroneous frames. This paper uses a Bidirectional Long Short-Term Memory model to com-
 bine two frames with high channel noise errors. This paper introduces the BiLSTM model,
-which aims to reduce the Bit Error Rate and provides an approach for integrating this model
+which aims to reduce Bit Error Rate and provides an approach for integrating this model
 into the existing HARQ structure.
 
 ![image](https://github.com/user-attachments/assets/0039d881-38eb-4ee5-9a0b-7743219d0af8)
