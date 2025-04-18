@@ -5,7 +5,7 @@
   National Institute of Technology Karnataka, Surathkal <br><br>
   (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
-  [SSWC 2024](https://www.jiscollege.ac.in/sswc2024/)  &nbsp;&nbsp;  [Springer Conference Proceedings]([https://link.springer.com/book/9789819613472](https://link.springer.com/chapter/10.1007/978-981-96-1348-9_9))
+  [SSWC 2024](https://www.jiscollege.ac.in/sswc2024/)  &nbsp;&nbsp;  [Springer Conference Proceedings](https://link.springer.com/chapter/10.1007/978-981-96-1348-9_9)
 </div>
   
 ## Abstract
