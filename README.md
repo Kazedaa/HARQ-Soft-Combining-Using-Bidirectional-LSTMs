@@ -49,6 +49,15 @@ Change the "MOD" macro to any of the modulation techniques used.
 
 ## Citation
 If you find HARQ Soft Combining Using Bidirectional LSTMs useful in your research or applications, please consider giving us a star 🌟 and citing it using the following:
-```bibtext
-TO DO: add bibtext.
+```bibtex
+@InProceedings{10.1007/978-981-96-1348-9_9,
+    author    ="Ubaradka, Adithya S.and Jamadagni, Hemang J. and Sunil, Rohit and Chandavarkar, B. R.",
+    editor    ="Chaki, Rituparna and Cortesi, Agostino and DasGupta, Suparna and Saha, Soumyabrata",
+    title     ="HARQ Soft Combining Using Bidirectional LSTMs",
+    booktitle ="Smart Systems and Wireless Communication",
+    year      ="2025",
+    publisher ="Springer Nature Singapore",
+    address   ="Singapore",
+    pages     ="109--122",
+}
 ```
